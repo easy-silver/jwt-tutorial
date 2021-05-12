@@ -1,4 +1,4 @@
-package me.easysilver.jwttutorial;
+package me.easysilver.tutorial;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
